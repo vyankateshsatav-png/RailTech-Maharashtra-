@@ -1,0 +1,7 @@
+{
+  "buildCommand": "npm run build",
+  "framework": "create-react-app",
+  "env": {
+    "REACT_APP_TITLE": "RailTech Maharashtra"
+  }
+}
